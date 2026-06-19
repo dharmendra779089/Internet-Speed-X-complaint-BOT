@@ -1,4 +1,4 @@
-# Internet Speed "Y" Complaint Bot 🚀
+# Internet Speed "X" Complaint Bot 🚀
 
 An automated Python script built with Selenium WebDriver that tests your internet speed and automatically "tweets" your ISP on a mock social media platform if you aren't getting the speeds you pay for. 
 
